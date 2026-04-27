@@ -1,4 +1,4 @@
-“””
+
 cesd.io.sim — CESD v0.4 Phase A simulation profile loader.
 
 Produces (n_e(r), T(r)) CSV pairs in the X-COP schema from simulation
